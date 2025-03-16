@@ -15,5 +15,5 @@
 >`Cost_1 = 10 & Cost_2 = 500`    
 >`Total_cost = Cost_1*No_Instances + Cost_2*No_Instances`   
 
-- **Goal:**Minimize the Total_Cost. As Cost_2 is 50 times more than Cost_1 so we need to focus on False Negatives as compared to False Positives.
+- **Goal:** Minimize the Total_Cost. As Cost_2 is 50 times more than Cost_1 so we need to focus on False Negatives as compared to False Positives.
 
